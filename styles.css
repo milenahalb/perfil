@@ -2,7 +2,7 @@
 
 body {
   font-size: 26px;
-  background: #d261e0;
+  background: #70329f;
   font-family: Roboto, sans-serif;
  }
 
@@ -15,11 +15,11 @@ body {
   justify-content: center;
  }
 
- #img {
-  border-radius: 70%;
-  width: 400px;
-  margin-left: 70%  align-items: center;
-px;
+ img {
+  border-radius: 60%;
+  align-items: center;
+  margin-left: 38%;
+  margin-top: 30px;
  }
 
  #text{
@@ -34,7 +34,7 @@ px;
 
  .social{
   font-size: 35px;
-  color: #000;
+  color: rgb(0, 0, 0);
   padding: 10px;
   margin-left: 40px;
   height: 50px;
@@ -43,9 +43,9 @@ px;
  }
 
 #insta:hover{
-  color:  #f1f1f1;
+  color:  #000000;
   transition: 0.9s;
-  background: #d6249f;
+  background: #ff00ae;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
   box-shadow: 0px 3px 10px rgba(0,0,0,.25);
  }
@@ -63,7 +63,7 @@ px;
  }
 
  #steam:hover{
-  color:  #f1f1f1;
+  color:  #ff0000;
   transition: 0.9s;
   background-color: #171a21;
  }
@@ -71,24 +71,18 @@ px;
  #github:hover{
   color: #171515;
   transition: 0.5s;
-  background-color: #fff;
+  background-color: rgb(17, 17, 17);
  }
 
  .description{
   font-size: 17px;
   color: #08090b;
-  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.836);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.836);#
   max-width: 850px;
   padding: 10px;
   background-color: #f1f1f1;
-  margin-top: 20px;
-  justify-content: center;
- }
-
- footer{
-  text-align: center;
-  font-size: 16px;
-  font-weight: 200;
+  margin-top: 20px;https://www.github.com/lucas23109
+#
   padding: 50px;
 }
 
